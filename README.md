@@ -1,13 +1,15 @@
 # 📜 홍정택 포트폴리오
 
-> 홍정택 (Jeongtaek Hong) 
+>> 홍정택 (Jeongtaek Hong) <br />
+>>
+>> Motto <br />
+>> “Shoot for the moon. Even if you miss, you'll land among the stars.”<br />달을 목표로 하라. 실패하더라도 별들 사이로 떨어질 테니<br />  – Norman Vincent Peale
 
 <br />
 
 # 👋 Intro
 
-> 안녕하세요! "실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어를 꿈꾸는" 홍정택입니다!
-
+> 안녕하세요! "실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어를 꿈꾸는" 홍정택입니다! <br />
 > 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/kimphysicsman/PROFILE-6bf254d419af4910b776c111efb371e4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!"
 
 <br />
@@ -48,9 +50,7 @@
 
 
 # 📞 Contact
-- 이메일 : hjt3651@gmail.com / ghd3651@naver.com
-</a>
-- 블로그 : https://blog.naver.com/ghd3651
-</a>
+- 이메일 : hjt3651@gmail.com / ghd3651@naver.com<br />
+- 블로그 : https://blog.naver.com/ghd3651<br />
 - 깃허브 : 
 
