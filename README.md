@@ -69,7 +69,7 @@
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Steelplates.git)
 
- ## 5. Autoswitchsensor | 육군 아이디어 경진대회회
+ ## 5. Autoswitchsensor | 육군 아이디어 경진대회
 
 > -개발기간 : 2024.8.5 - 8.14 <br />
 > -핵심 역할 : 아이디어 제안 및 구현<br />
