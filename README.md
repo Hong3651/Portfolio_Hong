@@ -72,10 +72,10 @@
  ## 5. Autoswitchsensor | 육군 아이디어 경진대회
 
 > -개발기간 : 2024.8.5 - 8.14 <br />
-> -핵심 역할 : 아이디어 제안 및 구현<br />
+> -핵심 역할 : 아이디어 제안 및 구현, sw/hw 테스트 , 로직 설계 <br />
 >
 >> Language : Python 3.10+ <br />
->> Skill : 
+>> Skill : : Telnet(원격접속), Cisco CLI(진단 명령), STP/Loop 개념, 로그 기반 이벤트 탐지, 콘솔 모니터링(TUI) <br />
 >
 >[프로젝트 상세 설명]
 (https://github.com/Hong3651/Project_Autoswitchsensor.git)
