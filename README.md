@@ -53,38 +53,7 @@
 > -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(로지스틱 회귀, 의사결정나무, XGBoost등 )<br />
 >
 >> Language : Python 3.10+ <br />
->> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost), Matplotlib/Seaborn, Git
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Indiausedcar.git)  
-
-## 4. 후판 공정 Scale 불량 예측 모델 | ML
-
-> -개발기간 : 2025.10.22 - 10.27 <br />
-> -핵심 역할 : 팀장, Git 협업 추진, 도메인지식 정리 및 변수 정의, 데이터 전처리·EDA 파이프라인 구축, 모델 성능 실험(로지스틱 회귀, 의사결정나무, XGBoost, RandomForest 등)<br />
->
->> Language : Python 3.10+ <br />
->> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost), Matplotlib/Seaborn, Git
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Steelplates.git)
-
- ## 5. Autoswitchsensor | 육군 아이디어 경진대회
-
-> -개발기간 : 2024.8.5 - 8.14 <br />
-> -핵심 역할 : 아이디어 제안 및 구현, sw/hw 테스트 , 로직 설계 <br />
->
->> Language : Python 3.10+ <br />
->> Skill : : Telnet(원격접속), Cisco CLI(진단 명령), STP/Loop 개념, 로그 기반 이벤트 탐지, 콘솔 모니터링(TUI) <br />
->
->[프로젝트 상세 설명]
-(https://github.com/Hong3651/Project_Autoswitchsensor.git)
-
-
-## 6. 웹 프로그래밍 Codie ship
-
-> -개발기간 : 2022.11.4 - 11.16 <br />
-> -핵심 역할 : 팀장, Git 협업 추진, 프로젝트 아이디어 제안 및 기회 주도(초보 개발자를 위한 교육 홈페이지 제작), 회원가입/로그인 등 간단한 기능 구현 / UI/UX 디자인 방향 설정 / presentation 발 <br />
+>> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest/XGBoost), Mat표 <br />
 >
 >> Language : JavaScript <br />
 >> Skill : HTML5 
