@@ -9,7 +9,7 @@
 
 # 👋 Intro
 
-> 안녕하세요! "실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어를 꿈꾸는" 홍정택입니다! <br />
+> 안녕하세요! "실패를 두려워하기보다 도전 속에서 배우고 변화를 만들어 가는 엔지니어"를 꿈꾸는 홍정택입니다! <br />
 > 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/ZIP-2c64cd111654809ea9fbcea39bdcfb50?source=copy_link"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!"
 
 <br />
