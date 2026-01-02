@@ -35,7 +35,7 @@
 >> -Skill : React.js, REST API Integration, Component-Based Architecture <br />
 >>
 >[프로젝트 상세 설명]
-() 
+(https://github.com/Hong3651/Project_Steveddarajabs.git) 
 
 ## 2. STS304 M형결함 Zero-Defect |  ML 모델링
 
@@ -46,7 +46,7 @@
 >> Skill : Pandas, NumPy, SciPy(카이제곱/비모수검정), scikit-learn(DecisionTree/RandomForest), imbalanced-learn(SMOTE), Matplotlib/Seaborn, Git
 >
 >[프로젝트 상세 설명]
-()
+(https://github.com/Hong3651/Project_sts304.git)
 ## 3. 인도 중고차 가격 예측 모델 | ML
 
 > -개발기간 : 2025.10.27 - 11.2 <br />
